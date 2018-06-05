@@ -87,8 +87,8 @@ RCT_EXPORT_MODULE();
                                 @"loadingLabelText": @"Processing assets...",
                                 @"mediaType": @"any",
                                 @"showsSelectedCount": @YES,
-                                @"cropperCancelText": @"Cancel",
-                                @"cropperChooseText": @"Choose"
+                                @"cropperCancelText": @"Отмена",
+                                @"cropperChooseText": @"Выбрать"
                                 };
         self.compression = [[Compression alloc] init];
     }
